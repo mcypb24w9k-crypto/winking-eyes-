@@ -1,0 +1,9 @@
+Issue 1:
+  Title: "Security Investigation"
+  Description: "Details about the investigation..."
+  Labels: security
+  
+Issue 2:
+  Title: "Address Flagging"
+  Description: "Information about the address..."
+  Labels: bug, urgent
